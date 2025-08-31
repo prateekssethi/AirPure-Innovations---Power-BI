@@ -29,6 +29,12 @@ This project focuses on helping businesses:
 4. **Health Impact** – Disease outbreaks, AQI triggers, risk zones  
 5. **Vehicles & Air Quality** – EV stats, AQI correlations, fuel split  
 6. **Market Prioritization** – Risk scores, priority cities, launch timing  
+<img width="1920" height="1080" alt="1  Landing Page" src="https://github.com/user-attachments/assets/6d0d0011-749a-49c0-8da5-d8ec2ce0f21a" />
+<img width="1920" height="1080" alt="2  Overview Analysis" src="https://github.com/user-attachments/assets/dd44ade1-b73a-4e34-a9ef-206a013685e2" />
+<img width="1920" height="1080" alt="3  AQI Severity Mapping" src="https://github.com/user-attachments/assets/60c1e24d-f958-4dda-b2f3-1424c38312f4" />
+<img width="1920" height="1080" alt="4  Health Impact Correlation" src="https://github.com/user-attachments/assets/294862c6-841c-4e3e-a8f7-f393c199656a" />
+<img width="1920" height="1080" alt="5  Vehicles   Air Quality" src="https://github.com/user-attachments/assets/340f0b3a-5bf9-4742-8258-4ab35269911e" />
+<img width="1920" height="1080" alt="6  Market Prioritization" src="https://github.com/user-attachments/assets/2a192c64-aa1d-44bb-b10f-d76d6cc5bcd3" />
 
 ---
 
